@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+    <Book>
+        <author>Stephen King</author>
+        <title>It</title>
+        <genre>Novel</genre>
+        <description>The story follows the experiences of seven children as they are terrorized by an evil entity that exploits the fears of its victims to disguise itself while hunting its prey.</description>
+        <keywords>horror</keywords>
+        <year>1986</year>
+        <isbn>4</isbn>
+        <rating>4.7</rating>
+    </Book>
+</Books>
