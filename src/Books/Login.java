@@ -6,7 +6,6 @@ public class  Login {
     private static String username = "";
     private static String password = "";
     private static String access = "";
-
     private static boolean login = false;
 
 
